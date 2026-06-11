@@ -23,3 +23,7 @@ Collection of bioengineering research and design projects spanning nanomedicine,
 ## Technical Skills
 
 Python • R • COMSOL • Pandas • NumPy • PCA • ImageJ • Cell Culture • PCR • Git
+
+## Contact Info
+
+email: kamilla.satiyeva@gmail.com
