@@ -1,6 +1,6 @@
 # Hi, I'm Kamilla
 
-UC Berkeley Bioengineering graduate
+I'm a UC Berkeley Bioengineering graduate
 
 My interests include:
 - Computational biology
